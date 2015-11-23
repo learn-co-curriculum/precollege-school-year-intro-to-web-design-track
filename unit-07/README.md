@@ -1,22 +1,19 @@
-# Day 7
+# Unit 7
 
-## Schedule
+## Unit Overview
 
 <table>
     <tr>
-        <td>Time</td>
         <td>Activity</td>
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:15</td>
         <td>ToDo</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-decorate-room"> To Do: Room Decorator</a>
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:15</td>
         <td>JS Conditionals + Arrays </td>
         <td>
             <a href="lectures/js-conditionals-structures/LECTURE.md">Lecture: JS Conditionals</a>
@@ -24,7 +21,6 @@
         </td>
     </tr>
     <tr>
-        <td>10:15 - 11:30</td>
         <td>JS Conditionals + Arrays Labs </td>
         <td>
            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-gimme-money"> Conditionals Lab: Gimme My Money</a><br>
@@ -38,15 +34,6 @@
     </tr>
 
     <tr>
-        <td>11:30 - 12:30</td>
-        <td>Lunch</td>
-        <td>
-            Eat Food!
-        </td>
-    </tr>
-
-    <tr>
-        <td>11:30 - 12:30</td>
         <td>Intro to jQuery</td>
         <td>
             <a href="lectures/intro-to-jquery/LECTURE.md">Lecture: Intro to jQuery</a><br>
@@ -55,7 +42,6 @@
         </td>
     </tr>
     <tr>
-        <td>12:30 - 2:50</td>
         <td>jQuery Lab</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Selectors">Lab: jQuery Exploring Selectors</a></br>
@@ -67,7 +53,6 @@
         </td>
     </tr>
     <tr>
-        <td>2:50 - 3:00</td>
         <td> Wrap Up</td>
         <td> 
             Tell the kids they're awesome.

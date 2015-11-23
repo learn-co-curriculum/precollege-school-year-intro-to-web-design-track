@@ -1,15 +1,13 @@
-# Day 3
+# Unit 3
 
-## Schedule
+## Unit Overview
 
 <table>
     <tr>
-        <td>Time</td>
         <td>Activity</td>
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:15</td>
         <td> To Dos</td>
         <td>
             <a href="https://docs.google.com/presentation/d/1fQJi5vcTuZMPRFLYZk_jALiKJwacFMZWD0TbNG4n-P4/edit#slide=id.gafe34ef86_0_53">Day 3 Deck</a>
@@ -18,7 +16,6 @@
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:00</td>
         <td> HTML5 Semantic Elements</td>
         <td> 
             <a href="lectures/html-5/LECTURE.md">Lecture: HTML 5</a><br>
@@ -27,7 +24,6 @@
         </td>
     </tr>
     <tr>
-        <td>10:15 - 11:30</td>
         <td> CSS Layout</td>
         <td> 
             <a href="lectures/css-layout/LECTURE.md">Lecture: CSS Layout</a><br>
@@ -35,12 +31,6 @@
         </td>
     </tr>
     <tr>
-        <td>11:30 - 12:30</td>
-        <td> LUNCH</td>
-        <td> EAT FOOD </td>
-    </tr>
-    <tr>
-        <td>12:30 - 1:50</td>
         <td> CSS LAYOUT LABS</td>
         <td> 
             <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-iphone-organizer"> Lab: iPhone Organizer</a><br>
@@ -54,17 +44,12 @@
          </td>
     </tr>
     <tr>
-        <td>1:50 - 2:50</td>
         <td> Independent Study</td>
         <td> </td>
     </tr>
     <tr>
-        <td>2:50 - 3:00</td>
         <td> Wrap Up</td>
         <td> 
-            Tell the kids they're awesome.
-            <br>
-            Micro Feedback<br>
             <a href="https://github.com/learn-co-curriculum/hs-css-todo"> Code Challenge: CSS Garden</a>
         </td>
     </tr>

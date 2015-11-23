@@ -1,33 +1,30 @@
-# HS Intro to Web Design Track
+# HS School Year Intro to Web Design Track
 
 ## Overview
-This repository will act as a course guide/masterplan for Web Design Track.
+This repository will act as a course guide/masterplan for the Intro to Web Design Track.
 
 Here you'll find:
 
-+ A course outline listing days and topics
-+ A guide for each day listing with schedule for deck, lectures, and labs
-+ A full lecture script as well as abridged notes for each lecture
++ A course outline listing units and resources.
++ A guide for each unit listing with with decks, lectures, and labs.
++ A full lecture script as well as abridged notes for each lecture.
 
 ## Course Outline
 
-### [Day 1 - Intro to HTML](day-01/)
+### [Unit 1 - Intro to HTML](unit-01/)
 
-### [Day 2 - HTML & CSS Basics](day-02/)
+### [Unit 2 - HTML & CSS Basics](unit-02/)
 
-### [Day 3 - CSS Layout](day-03/)
+### [Unit 3 - CSS Layout](unit-03/)
 
-### [Day 4 - Advanced Styling](day-04/)
+### [Unit 4 - Advanced Styling](unit-04/)
 
-### [Day 5 - User Experience](day-05/)
+### [Unit 5 - User Experience](unit-05/)
 
-### [Day 6 - jQuery Basics](day-06/)
+### [Unit 6 - jQuery Basics](unit-06/)
 
-### [Day 7 - jQuery Events](day-07/)
+### [Unit 7 - jQuery Events](unit-07/)
 
-### [Day 8 - Project 1](day-08/)
+### [Unit 8 - Project Mode](unit-08/)
 
-### [Day 9 - Project 2](day-09/)
-
-### [Day 10 - Project 3](day-10/)
 

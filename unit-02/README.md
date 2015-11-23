@@ -1,15 +1,12 @@
-# Day 2
+# Unit 2
 
-## Schedule
-
+## Unit Overview
 <table>
     <tr>
-        <td>Time</td>
         <td>Activity</td>
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:15</td>
         <td> To Dos</td>
         <td>
         <a href="https://docs.google.com/presentation/d/13WdKRsOFH1jBkkdLtMhrjSPVCRljYivgM3JUMLgpNmY/edit">Day 2 Deck</a></br>
@@ -17,7 +14,6 @@
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:00</td>
         <td>HTML Fundamentals </td>
         <td> 
           <a href="lectures/HTML_Fundamentals/LECTURE.md">Lecture: HTML Fundamentals</a></br>
@@ -26,7 +22,6 @@
         </td>
     </tr>
     <tr>
-        <td>10:00 - 10:45</td>
         <td>HTML Fundamentals Lab</td>
         <td> 
           <a href="https://github.com/learn-co-curriculum/html-album-cover"> Lab: Album Cover</a><br>
@@ -37,7 +32,6 @@
         </td>
     </tr>
     <tr>
-      <td>10:45 - 11:30</td>
       <td>CSS Fundamentals </td>
       <td>
         <a href="lectures/CSS_Fundamentals/LECTURE.md">Lecture: CSS Fundamentals</a></br> 
@@ -50,12 +44,10 @@
       </td>
     </tr>
     <tr>
-      <td>11:30 - 12:30</td>
       <td>Lunch</td>
       <td></td>
     </tr>
     <tr>
-      <td>12:30 - 1:00</td>
       <td>Design Principal: Visual Hierarchy </td>
       <td> 
         <a href="https://docs.google.com/presentation/d/1zDmP-gLao4qE5Fi6qBwQ66cSQccfKN-mZDIKbcLDmFE/edit#slide=id.gafebb4385_0_32">Deck: Visual Hierarchy</a></br>
@@ -64,12 +56,6 @@
       </td>
     </tr>
     <tr>
-      <td>1:00 - 1:30</td>
-      <td>Improv</td>
-      <td> <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a></td>
-    </tr>
-    <tr>
-      <td>1:30 - 2:15</td>
       <td>How The Internet Works</td>
       <td> 
         <a href="lectures/how_the_internet_works/LECTURE.md">Lecture: How the Internet Works</a></br>
@@ -78,7 +64,6 @@
       </td>
     </tr>
     <tr>
-      <td>2:15 - 2:50</td>
       <td>Independent Study</td>
       <td> 
         <a href="lectures/independent_study/LECTURE.md">Independent Study Guide</a></br>
@@ -90,7 +75,6 @@
       </td>
     </tr>
     <tr>
-        <td>2:50 - 3:00</td>
         <td> Wrap Up</td>
         <td> 
             Tell the kids they're awesome.

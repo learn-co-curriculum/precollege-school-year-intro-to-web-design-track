@@ -1,15 +1,13 @@
-# Day 4
+# Unit 4
 
-## Schedule
+## Unit Overview
 
 <table>
     <tr>
-        <td>Time</td>
         <td>Activity</td>
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:15</td>
         <td> To-Do</td>
         <td>
             <a href="https://docs.google.com/presentation/d/1NJ4YCU7Sj1H_KoMkF-s2aswr-b39JMNTWILe4bLTmNU/edit#slide=id.gafe5a1ee8_0_0">Day 4 Deck</a>
@@ -18,7 +16,6 @@
         </td>
     </tr>
     <tr>
-        <td>9:15 - 9:45</td>
         <td> Lecture: Descendant and Pseudo Selectors </td>
         <td>
             <a href="lectures/css-selectors/LECTURE.md">Lecture: CSS Selectors</a><br>
@@ -26,7 +23,6 @@
         </td>
     </tr>
     <tr>
-        <td>9:45 - 10:15</td>
         <td> Selector Labs </td>
         <td>
         <a href="https://github.com/learn-co-curriculum/Css-Graffiti-Override">Lab: Graffiti Override</a><br>
@@ -36,22 +32,14 @@
         </td>
     </tr>
     <tr>
-        <td>10:15 - 11:30</td>
         <td> Responsive Design Lecture and Labs</td>
         <td>
             <a href="lectures/responsive-design/LECTURE.md">Lecture: Responsive Design</a><br>
             <a href="lectures/responsive-design/README.md">Lecture Notes</a><br>
             <a href="https://github.com/learn-co-curriculum/Animal-Save"> Lab: Animal Save</a>
         </td>
-    </tr>
-        <tr>
-        <td>11:30 - 12:30</td>
-        <td> Lunch </td>
-        <td>
-        </td>
-    </tr>
+
     <tr>
-        <td>12:30 - 1:00</td>
         <td> User Experience Lecture: Typography </td>
         <td>
             <a href="lectures/typography/LECTURE.md">Lecture: Typography</a><br>
@@ -59,7 +47,6 @@
         </td>
     </tr>
     <tr>
-        <td>1:00 - 1:45</td>
         <td> Lecture: Grid System and Bootstrap </td>
         <td>
             <a href="lectures/bootstrap/LECTURE.md">Lecture: Bootstrap</a></br>
@@ -68,19 +55,14 @@
         </td>
     </tr>
     <tr>
-        <td>1:45 - 2:50</td>
         <td> Bootstrap Labs </td>
         <td>
             <a href="https://github.com/learn-co-curriculum/fe-bootstRAPPERS">Lab: BootstRAPPERS</a>
         </td>
     </tr>
     <tr>
-        <td>2:50 - 3:00</td>
         <td> Wrap Up</td>
         <td> 
-            Tell the kids they're awesome.
-            <br>
-            Micro Feedback<br>
             <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-bootstrap-carousel-code-challenge">Code Challenge: Bootstrap Carousel</a>
         </td>
     </tr>
