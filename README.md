@@ -29,4 +29,4 @@ Here you'll find:
 
 
 
-<a href='https://learn.co/lessons/precollege-school-year-intro-to-web-design-track' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/precollege-school-year-intro-to-web-design-track' title='HS School Year Intro to Web Design Track'>HS School Year Intro to Web Design Track</a> on Learn.co and start learning to code for free.</p>
